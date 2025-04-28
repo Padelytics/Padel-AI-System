@@ -40,7 +40,7 @@ Court keypoints are used to perform a **homography projection** into a **2D cour
 - Players' pose keypoints (13 degrees of freedom)
 - Ball position, velocity, and acceleration
 
-## Future Work 🪜
+## Future Work
 
 - Use players' pose keypoints detections to classify technical gestures more accurately;
 - Predict when players hit the ball:  
