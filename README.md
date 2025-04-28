@@ -1,11 +1,11 @@
 # Padel Analytics 🤖🎾
 
 This repository applies computer vision techniques to extract valuable insights from a padel game recording, including:
-- Position and velocity of each player;
-- Position and velocity of the ball;
-- 2D court projection;
-- Heatmaps;
-- Ball velocity associated with different strokes;
+- Position and velocity of each player.
+- Position and velocity of the ball.
+- 2D court projection.
+- Heatmaps.
+- Ball velocity associated with different strokes.
 - Player error rate.
 
 ## Project Description
@@ -48,7 +48,9 @@ Court keypoints are used to perform a **homography projection** into a **2D cour
 
 ## Resources
 
-- Pre-trained model weights: [Download Here](https://drive.google.com/drive/folders/1ylOTG9M81RdT9LbS51_TevcTOtIhKuS6?usp=sharing)
+- **Dataset**: [Download Here](https://drive.google.com/drive/folders/1gmmYLORGo_OKdc5_W_vq3L5U29TY0JjD?usp=drive_link)
+- **Training**: [Download Here](https://drive.google.com/drive/folders/1XRiOEG7ok5TJ0-2knlAVg5I57Y5RZnTy?usp=drive_link)
+- **Pre-trained Model Weights**: [Download Here](https://drive.google.com/drive/folders/1ylOTG9M81RdT9LbS51_TevcTOtIhKuS6?usp=sharing)
 
 ## Contact
 
