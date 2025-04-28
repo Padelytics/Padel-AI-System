@@ -33,7 +33,7 @@ This implementation can be used to:
 
 Court keypoints are used to perform a **homography projection** into a **2D court representation** of players' feet and ball positions.
 
-## Data Collected 📜
+## Data Collected
 
 - Players' position, velocity (Vx, Vy), and acceleration (Ax, Ay)
 - Distance covered by each player
