@@ -48,7 +48,7 @@ Court keypoints are used to perform a **homography projection** into a **2D cour
 
 ## Resources
 
-- **Dataset**: [Download Here](https://drive.google.com/drive/folders/1gmmYLORGo_OKdc5_W_vq3L5U29TY0JjD?usp=drive_link)
+- **Datasets**: [Download Here](https://drive.google.com/drive/folders/1gmmYLORGo_OKdc5_W_vq3L5U29TY0JjD?usp=drive_link)
 - **Training**: [Download Here](https://drive.google.com/drive/folders/1XRiOEG7ok5TJ0-2knlAVg5I57Y5RZnTy?usp=drive_link)
 - **Pre-trained Model Weights**: [Download Here](https://drive.google.com/drive/folders/1ylOTG9M81RdT9LbS51_TevcTOtIhKuS6?usp=sharing)
 
